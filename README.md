@@ -31,7 +31,7 @@ First, fork or clone this repository.
 *Note: Feel free to keep your repository **Public** to show it off on your portfolio! As long as you use GitHub Secrets for your keys, your credentials are completely safe.*
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/github-trends-aggregator.git](https://github.com/YOUR_USERNAME/github-trends-aggregator.git)
+git clone https://github.com/Behzad1408/github-trends-aggregator.git
 cd github-trends-aggregator
 npm install
 
