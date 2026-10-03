@@ -1,11 +1,11 @@
-```markdown
+markdown
 # GitHub Trends Aggregator
 
 Have you ever wanted to know what repositories the developers you follow are starring, without scrolling through GitHub's cluttered feed? That's exactly why I built this.
 
 This is a lightweight, serverless tool that tracks what your network is starring, grabs the top global trends, and drops a clean daily digest straight into your Telegram. It's designed to keep you in the loop with the open-source ecosystem, entirely on autopilot.
 
-## ✨ Why I Built This (Features)
+## Why I Built This (Features)
 
 - **Network Radar:** Instead of manually checking profiles, it monitors `WatchEvent` payloads from the people you follow to help you discover hidden gems in your immediate network.
 - **Global Trends:** Since GitHub doesn't have a direct "trending" API, this simulates it by querying the Search API for the top-starred repositories created in the last 24 hours and 7 days.
