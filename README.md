@@ -1,4 +1,3 @@
-markdown
 # GitHub Trends Aggregator
 
 Have you ever wanted to know what repositories the developers you follow are starring, without scrolling through GitHub's cluttered feed? That's exactly why I built this.

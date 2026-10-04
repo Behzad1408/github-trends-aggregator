@@ -1,9 +1,9 @@
 name: Daily GitHub Tracker Bot
 
 on:
-  schedule:
+  # schedule:
     # Runs at 23:59 UTC every day
-    - cron: '59 23 * * *'
+    # - cron: '59 23 * * *'
   workflow_dispatch: # Allows manual triggering from the GitHub Actions UI
 
 permissions:
